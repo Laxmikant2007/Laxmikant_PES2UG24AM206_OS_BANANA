@@ -986,5 +986,3 @@ rm -f layout layout_pie demand pagemap cow hello_dynamic hello_static \
 | 8       | Q8.1, Q8.2, Q8.3    |
 | 9       | Q9.1, Q9.2, Q9.3    |
 | 10      | Q10.1, Q10.2, Q10.3 |
-#   L a x m i k a n t _ P E S 2 U G 2 4 A M 2 0 6 _ O S _ B A N A N A  
- 
